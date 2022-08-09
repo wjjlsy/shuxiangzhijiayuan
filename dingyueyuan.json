@@ -3376,5 +3376,26 @@
     "sourceIcon": "https://cdn-www.yxgapp.com/wp-content/uploads/2018/12/yxg-logo.png",
     "sourceName": "译学馆",
     "sourceUrl": "https://www.yxgapp.com"
+  },
+  {
+    "articleStyle": 0,
+    "customOrder": 284,
+    "enableJs": true,
+    "enabled": true,
+    "header": "",
+    "loadWithBaseUrl": true,
+    "ruleArticles": "",
+    "ruleContent": "",
+    "ruleImage": "",
+    "ruleLink": "",
+    "rulePubDate": "",
+    "ruleTitle": "",
+    "singleUrl": true,
+    "sortUrl": "",
+    "sourceGroup": "🎬 大陆",
+    "sourceIcon": "https://cdn.wyteam.net/webapps/maccms/template/blueghost/img/favicon.ico",
+    "sourceName": "555影院",
+    "sourceUrl": "https://www.5dy15.cc/",
+    "style": ""
   }
 ]
